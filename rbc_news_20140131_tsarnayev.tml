@@ -1,0 +1,10 @@
+<TimeML><DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2014-01-31">2014-01-31</TIMEX3></DCT><TEXT>
+
+Прокуратура США потребует смертной казни для Дж.Царнаева.
+<TIMEX3 functionInDocument="CREATION_TIME"  type="DATE"  value="2014-31-01"  tid="t1">31.01.2014</TIMEX3>, Вашингтон <TIMEX3 functionInDocument="CREATION_TIME"  type="TIME"  value="2014-31-01T00:33"  tid="t2">00:33:08</TIMEX3> Американская прокуратура будет требовать смертной казни для Джохара Царнаева, обвиняемого в совершении теракта на Бостонском марафоне, передает Reuters со ссылкой на официальное сообщение Генеральной прокуратуры США.
+"Природа совершенного деяния и размер причиненного вреда соответствуют такому решению", - заявил генеральный прокурор США Эрик Холдер, чьи слова приводятся в сообщении.
+Э.Холдер назвал взрыв в Бостоне одним из наиболее масштабных <EVENT aspect="NONE" tense="NONE" class="OCCURRENCE" eid="e1">терактов</EVENT> на территории США <SIGNAL sid="s1">с</SIGNAL> <TIMEX3 functionInDocument="NONE"  type="DATE"  value="2001-09-11"  tid="t3">11 сентября 2001г.</TIMEX3><TLINK eventInstanceID="e1" lid="tl1" relType="AFTER"     signalID="s1" relatedToTime="t3"/>
+<TIMEX3 functionInDocument="NONE"  type="DATE"  value="2013-04-15"  tid="t4">15 апреля 2013г.</TIMEX3> <TLINK eventInstanceID="e2" lid="tl2" relType="IS_INCLUDED"      relatedToTime="t4"/>в результате серии взрывов на Бостонском марафоне <EVENT aspect="NONE" tense="PAST" class="OCCURRENCE" eid="e2">погибли</EVENT> три человека, около 260 пострадали. Затем перестрелка в Массачусетском институте унесла жизнь одного полицейского. В совершении взрывов и стрельбе обвиняется уроженец Чечни Д.Царнаев, его старший брат Тамерлан Царнаев был убит в ходе перестрелки в кампусе института.
+Получивший тяжелые ранения при задержании Д.Царнаев содержится в тюремном медицинском центре недалеко от Бостона. Обвинение настаивает на том, что он виновен в установке взрывных устройств.
+</TEXT>
+<MAKEINSTANCE eiid="e1" eventID="e1"/><MAKEINSTANCE eiid="e2" eventID="e2"/></TimeML>

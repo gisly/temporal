@@ -1,0 +1,8 @@
+<TimeML><DCT><TIMEX3 functionInDocument="CREATION_TIME" type="DATE" temporalFunction="false" value="2014-02-01" tid="t0">2014-02-01</TIMEX3></DCT><TEXT>
+
+В Москве произошел крупный пожар
+<SIGNAL sid="s1">В</SIGNAL> <TIMEX3 functionInDocument="NONE" type="DATE" value="2014-02-01" tid="t1">субботу утром</TIMEX3> в Москве в Юго-западном административном округе <EVENT aspect="PERFECTIVE" tense="PAST" class="OCCURRENCE" eid="e1">произошел</EVENT> крупный пожар. Как сообщается на сайте МЧС, площадь пожара в доме 3 по улице Нагорной составляет около 2500 квадратных метров.
+Трехэтажное административное здание, в котором располагаются офисы, автосервис и другие организации, <EVENT aspect="PERFECTIVE" tense="PAST" class="OCCURRENCE" eid="e2">загорелось</EVENT> около <TIMEX3 functionInDocument="NONE" type="TIME" value="2014-02-01T08:00" tid="t2">8 часов утра</TIMEX3>. Прибывшие пожарные обнаружили возгорание на первом этаже. В тушении пожара принимают участие 29 пожарно-спасательных подразделений общей численностью 102 человека. На место происшествия выехали также сотрудники полиции, которые обеспечивают порядок и доступ спецтехники к горящему зданию, сообщает «Интерфакс».
+Из здания были выведены два человека. По предварительным данным, больше людей в здании нет. Информации о пострадавших не поступало. Пожару присвоен третий номер сложности по пятибалльной шкале.
+</TEXT>
+<MAKEINSTANCE eventID="e1" eiid="e1"/><MAKEINSTANCE eventID="e2" eiid="e2"/><TLINK eventInstanceID="e1" signalID="s1" relatedToTime="t1" relType="IS_INCLUDED"/><TLINK eventInstanceID="e2"  relatedToTime="t2" relType="IS_INCLUDED"/></TimeML>

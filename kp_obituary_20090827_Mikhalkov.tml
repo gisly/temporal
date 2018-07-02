@@ -1,0 +1,133 @@
+<TimeML><DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2009-08-27">2009-08-27</TIMEX3></DCT><TEXT>
+
+Михалков Сергей Владимирович
+(<TIMEX3 functionInDocument="NONE"   type="DATE"      value="1913-03-13"  tid="t1">13.03.1913</TIMEX3>-<TIMEX3 functionInDocument="NONE"   type="DATE"      value="2009-08-27"  tid="t2">27.08.2009 гг.</TIMEX3>)
+Литератор, председатель Союза писателей РСФСР, писатель, поэт, баснописец, драматург, военный корреспондент , автор текста двух гимнов Советского Союза и гимна Российской Федерации. Герой Социалистического Труда, лауреат Ленинской и Сталинской премий, академик Российской Академии образования, кавалер ордена Святого Андрея Первозванного.
+Сергей Владимирович <EVENT aspect="PERFECTIVE" tense="PAST" class="OCCURRENCE" eid="e1">родился</EVENT> <TIMEX3 functionInDocument="NONE"   type="DATE"      value="1913-03-13"  tid="t3">13 марта 1913 года</TIMEX3> в Москве. Отец Сергея - Владимир Александрович Михалков был потомком дворянского рода. Мать - Ольга Михайловна Михалкова, урожденная Глебова. У Сергея Михалкова было два брата - Михаил и Александр.  
+Особый талант у Сергея обнаружился в детстве. В девять лет отец послал несколько стихотворений сына известному поэту Александру Безыменскому, которому они очень понравились.  
+<SIGNAL sid="s1">В</SIGNAL> <TIMEX3 functionInDocument="NONE"   type="DATE"      value="1927"  tid="t4">1927 году</TIMEX3> семья Михалковых <EVENT aspect="PROGRESSIVE" tense="PRESENT" class="OCCURRENCE" eid="e2">переезжает</EVENT> в Ставропольский край. <SIGNAL sid="s2">В</SIGNAL> <TIMEX3 functionInDocument="NONE"   type="DATE"      value="1928"  tid="t5">1928 году</TIMEX3> <EVENT aspect="PROGRESSIVE" tense="PRESENT" class="OCCURRENCE" eid="e3">публикуется</EVENT> первое стихотворение Сергея «Дорога» в журнале «На подъёме». После окончания школы Сергей Михалков возвращается в Москву, где некоторое время работает на ткацкой фабрике, в геологоразведочной экспедиции. <SIGNAL sid="s3">В</SIGNAL> <TIMEX3 functionInDocument="NONE"   type="DATE"      value="1933"  tid="t6">1933 году</TIMEX3> он <EVENT aspect="PROGRESSIVE" tense="PRESENT" class="STATE" eid="e4">становится</EVENT> внештатным сотрудником отдела писем газеты «Известия» и членом Московского группкома писателей. Так же он публикуется в журналах: «Огонёк», «Пионер», «Прожектор», в газетах: «Комсомольская правда», «Известия», «Правда». В этом же году выходит его первый сборник стихов.
+<SIGNAL sid="s4">В</SIGNAL> <TIMEX3 functionInDocument="NONE"   type="DATE"      value="1935"  tid="t7">1935 году</TIMEX3> <EVENT aspect="PROGRESSIVE" tense="PRESENT" class="OCCURRENCE" eid="e5">выходит</EVENT> первое его известное произведение, ставшее классикой детской литературы — поэма «Дядя Стёпа». <SIGNAL sid="s5">В</SIGNAL> <TIMEX3 functionInDocument="NONE"   type="DATE"      value="1936"  tid="t8">1936 году</TIMEX3>  в газете «Правда» он  стихотворение «Светлана», которое изменило всю его жизнь. Оно понравилось Сталину, и Сергей Михалков становится членом Союза писателей СССР.  <SIGNAL sid="s6">В</SIGNAL> <TIMEX3 functionInDocument="NONE"   type="DATE"      value="1937"  tid="t9">1937 году</TIMEX3> он <EVENT aspect="PROGRESSIVE" tense="PRESENT" class="OCCURRENCE" eid="e6">поступает</EVENT> в Литературный институт, где <EVENT aspect="PERFECTIVE" tense="FUTURE" class="OCCURRENCE" eid="e7">проучится</EVENT> <SIGNAL sid="s7">до</SIGNAL> <TIMEX3 functionInDocument="NONE"   type="DATE"      value="1937"  tid="t10">1937 года</TIMEX3>. Он активно публикуется, постоянно выходят его сборники стихов и басни 
+<SIGNAL sid="s8">В</SIGNAL> <TIMEX3 functionInDocument="NONE"   type="DATE"      value="1939"  tid="t11">1939 году</TIMEX3> Михалков <EVENT aspect="PROGRESSIVE" tense="PRESENT" class="OCCURRENCE" eid="e8">получает</EVENT> первый орден Ленина. 
+Во время Великой Отечественной Войны Михалков является корреспондентом газет «Во славу Родины» и «Сталинский сокол». Вместе с войсками отступал до Сталинграда и был контужен. Был награжден боевыми орденами и медалями. Одновременно работал над сценариями к фильмам и мультфильмам. За сценарий к фильму «Фронтовые подруги» <SIGNAL sid="s9">в</SIGNAL> <TIMEX3 functionInDocument="NONE"   type="DATE"      value="1942"  tid="t12">1942 г</TIMEX3> был <EVENT aspect="PERFECTIVE" tense="PAST" class="STATE" eid="e9">отмечен</EVENT> Государственной премией СССР. 
+После войны Михалков продолжает литературную деятельность, работает в разных жанрах детской литературы. Так же создаёт пьесы для детских театров и сценарии для мультфильмов. По его сценариям сняты такие известные фильмы как «Большое космическое путешествие», «Три плюс два», «Новые похождения Кота в Сапогах» и другие. <SIGNAL sid="s10">В</SIGNAL> <TIMEX3 functionInDocument="NONE"   type="DATE"      value="1962"  tid="t13">1962 году</TIMEX3> Михалков <EVENT aspect="PERFECTIVE" tense="PAST" class="OCCURRENCE" eid="e10">выступил</EVENT> автором идеи и организатором сатирического киножурнала «Фитиль». Впоследствии активно работает над созданием киножурнала и пишет сценарии для отдельных эпизодов. 
+<SIGNAL sid="s11">С</SIGNAL> <TIMEX3 functionInDocument="NONE"   type="DATE"      value="196X"  tid="t14">60-х годов</TIMEX3> Сергей Владимирович общественный <EVENT aspect="NONE" tense="PRESENT" class="STATE" eid="e11">деятель</EVENT> в области литературы. <SIGNAL sid="s12">C</SIGNAL> <TIMEX3 functionInDocument="NONE"   type="DATE"      value="1965"  tid="t15">1965</TIMEX3> - <TIMEX3 functionInDocument="NONE"   type="DATE"      value="1970"  tid="t16">1970 гг.</TIMEX3> - <EVENT aspect="NONE" tense="PRESENT" class="STATE" eid="e12">секретарь</EVENT> правления Союза писателей СССР, 1-й <EVENT aspect="NONE" tense="PRESENT" class="STATE" eid="e13">секретарь</EVENT> правления Московской организации СП РСФСР. <SIGNAL sid="s13">С</SIGNAL> <TIMEX3 functionInDocument="NONE"   type="DATE"      value="1970"  tid="t17">1970</TIMEX3> <EVENT aspect="PROGRESSIVE" tense="PRESENT" class="STATE" eid="e14">является</EVENT> председателем правления СП РСФСР. Так же был депутатом Верховного Совета СССР 8-11-го созыва. 
+Член Комиссии по Сталинским премиям в области литературы и искусства при Совете Министров СССР. <EVENT aspect="NONE" tense="NONE" class="OCCURRENCE" eid="e15">Постановлением</EVENT> Совмина СССР № 605 <SIGNAL sid="s14">от</SIGNAL> <TIMEX3 functionInDocument="NONE"   type="DATE"      value="1976-08-02"  tid="t18">2 августа 1976 года</TIMEX3>, введён в состав Комиссии по Ленинским и Государственным премиям СССР в области литературы, искусства и архитектуры при Совете Министров СССР. 
+После распада СССР Михалков остается у руля писательской организации. <SIGNAL sid="s15">С</SIGNAL> <TIMEX3 functionInDocument="NONE"   type="DATE"      value="1992"  tid="t19">1992</TIMEX3>-<TIMEX3 functionInDocument="NONE"   type="DATE"      value="1999"  tid="t20">1999 гг.</TIMEX3> <EVENT aspect="NONE" tense="NONE" class="STATE" eid="e16">сопредседатель</EVENT> Исполкома Сообщества Писательских Союзов. <SIGNAL sid="s16">В</SIGNAL> <TIMEX3 functionInDocument="NONE"   type="DATE"      value="2005"  tid="t21">2005 году</TIMEX3> Михалков <EVENT aspect="PROGRESSIVE" tense="PRESENT" class="OCCURRENCE" eid="e17">занимает</EVENT> пост председателя исполкома Международного сообщества писательских союзов. А <SIGNAL sid="s17">к</SIGNAL> <TIMEX3 functionInDocument="NONE"   type="DATE"      value="2008"  tid="t22">2008 году</TIMEX3> суммарный тираж книг Сергея Михалкова <EVENT aspect="PROGRESSIVE" tense="PRESENT" class="OCCURRENCE" eid="e18">насчитывает</EVENT> по разным оценкам около 300 млн. экземпляров. 
+<TIMEX3 functionInDocument="NONE"   type="DATE"      value="2008-03-13"  tid="t23">13 марта 2008 года</TIMEX3>, в день 95-летия писателя Владимир Путин <EVENT aspect="PERFECTIVE" tense="PAST" class="OCCURRENCE" eid="e19">подписал</EVENT> указ о награждении Михалкова орденом Святого апостола Андрея Первозванного – за его выдающийся вклад в развитие отечественной литературы и многолетнюю творческую общественную деятельность. 
+<SIGNAL sid="s18">В</SIGNAL> <TIMEX3 functionInDocument="NONE"   type="DATE"      value="PAST_REF"  tid="t25">последнее время</TIMEX3> Сергей Владимирович серьезно <EVENT aspect="PROGRESSIVE" tense="PAST" class="OCCURRENCE" eid="e20">болел</EVENT>. <SIGNAL sid="s19">В</SIGNAL> <TIMEX3 functionInDocument="NONE"   type="DATE"      value="2008-02"  tid="t24">минувшем феврале</TIMEX3> автора знаменитых строчек про «Дядю Степу» и Гимнов СССР и Российской Федерации Сергея Владимировича Михалкова <EVENT aspect="PERFECTIVE" tense="PAST" class="OCCURRENCE" eid="e21">госпитализировали</EVENT> в больницу. Появились предположения, что у поэта - подозрение на воспаление легких и почечную недостаточность. Но близкие поэта считали, что поводов для паники и волнения нет.  
+Сергей Владимирович <EVENT aspect="PERFECTIVE" tense="PAST" class="OCCURRENCE" eid="e22">скончался</EVENT> <TIMEX3 functionInDocument="NONE"   type="DATE"      value="2009-08-27"  tid="t26">27 августа</TIMEX3> в одной из московских клиник.   
+Семья Сергея Михалкова: 
+<SIGNAL sid="s20">В</SIGNAL> <TIMEX3 functionInDocument="NONE"   type="DATE"      value="1936"  tid="t27">1936 году</TIMEX3> Сергей Михалков <EVENT aspect="PROGRESSIVE" tense="PRESENT" class="OCCURRENCE" eid="e23">женится</EVENT> на Наталии Петровне Кончаловской, дочери художника П. П. Кончаловского и внучке художника В. И. Сурикова. Они <EVENT aspect="PERFECTIVE" tense="PAST" class="OCCURRENCE" eid="e24">прожили</EVENT> в браке <TIMEX3 functionInDocument="NONE"   type="DURATION"      value="P53Y"  tid="t28">53 года</TIMEX3>.  
+После смерти жены, <SIGNAL sid="s21">в</SIGNAL> <TIMEX3 functionInDocument="NONE"   type="DATE"      value="1997"  tid="t29">1997 году</TIMEX3>, Михалков <EVENT aspect="PROGRESSIVE" tense="PRESENT" class="OCCURRENCE" eid="e25">женится</EVENT> на Юлии Валерьевне Субботиной, дочери академика РАН В. И. Субботина.
+От первого брака у Михалкова два сына - Андрей Михалков-Кончаловский и Никита Михалков. Оба <SIGNAL sid="s22">в</SIGNAL> <TIMEX3 functionInDocument="NONE"   type="DATE"      value="PRESENT_REF"  tid="t30">настоящее время</TIMEX3> <EVENT aspect="PROGRESSIVE" tense="PRESENT" class="STATE" eid="e26">являются</EVENT> известными кинорежиссерами. Так же у Сергея Михалкова 10 внуков и 8 правнуков. 
+Любимые строки из произведений Сергея Михалкова: 
+Поэма «Дядя Степа» (Сергей Михалков, <TIMEX3 functionInDocument="NONE"   type="DATE"      value="1935"  tid="t31">1935 г.</TIMEX3>)
+По фамилии Степанов 
+И по имени Степан, 
+Из районных великанов 
+Самый главный великан... 
+«Мы с приятелем» (Сергей Михалков, <TIMEX3 functionInDocument="NONE"   type="DATE"      value="1937"  tid="t32">1937 г.</TIMEX3>)
+Мы с приятелем вдвоем 
+Замечательно живем! 
+Мы такие с ним друзья — 
+Куда он, 
+Туда и я!.. 
+«Тридцать шесть и пять»! (Сергей Михалков, <TIMEX3 functionInDocument="NONE"   type="DATE"      value="1959"  tid="t33">1959 г.</TIMEX3>)
+У меня опять: 
+Тридцать шесть и пять!.. 
+«Не спать!» (Сергей Михалков, <TIMEX3 functionInDocument="NONE"   type="DATE"      value="1959"  tid="t34">1959 г.</TIMEX3>)
+Я ненавижу слово "спать"! 
+Я ёжусь каждый раз, 
+Когда я слышу: "Марш в кровать! 
+Уже <TIMEX3 functionInDocument="NONE" mod="EQUAL_OR_MORE"  type="TIME"      value="XXXX-XX-XXT21:00"  tid="t35">десятый час</TIMEX3>!"... 
+«Про мимозу» (Сергей Михалков, <TIMEX3 functionInDocument="NONE"   type="DATE"      value="1937"  tid="t36">1937 г.</TIMEX3>)
+...Он растет, боясь мороза, 
+У папы с мамой на виду, 
+Как растение мимоза 
+В ботаническом саду. 
+«А что у вас?» ( Сергей Михалков, <TIMEX3 functionInDocument="NONE"   type="DATE"      value="1948"  tid="t37">1948 г.</TIMEX3>)
+— А у нас на кухне газ. 
+А у вас? 
+— А у нас водопровод. 
+Вот... 
+«Мальчик с девочкой дружил» (Сергей Михалков, <TIMEX3 functionInDocument="NONE"   type="DATE"      value="1959"  tid="t38">1959 г.</TIMEX3>)
+Мальчик с девочкой дружил,
+Мальчик дружбой дорожил... 
+Басня «Соловей и Ворона»  (Сергей Михалков, <TIMEX3 functionInDocument="NONE"   type="DATE"      value="1945"  tid="t39">1945 г.</TIMEX3>)
+Вот пишешь про зверей, про птиц и насекомых,
+А попадаешь все в знакомых... 
+Басня «Рубль и Доллар» (Сергей Михалков, <TIMEX3 functionInDocument="NONE"   type="DATE"      value="1952"  tid="t40">1952 г.</TIMEX3>)
+...И всем врагам назло я крепну год от года. 
+А ну, посторонись — советский рубль идет! 
+Басня «Волки и Зайцы» (Сергей Михалков, <TIMEX3 functionInDocument="NONE"   type="DATE"      value="1947"  tid="t41">1947 г.</TIMEX3>)
+...Сравнение моё, быть может, грубовато, 
+Но я имел в виду зайчат, вступивших в НАТО!
+Творчество Сергея Михалкова: 
+Сценарии к фильмам 
+<TIMEX3 functionInDocument="NONE"   type="DATE"      value="1979"  tid="t42">1979</TIMEX3> Пена — по одноимённой пьесе
+<TIMEX3 functionInDocument="NONE"   type="DATE"      value="1975"  tid="t43">1975</TIMEX3> Меняю собаку на паровоз — по пьесе «Чужая роль»
+<TIMEX3 functionInDocument="NONE"   type="DATE"      value="1974"  tid="t44">1974</TIMEX3> Большое космическое путешествие — по пьесе «Первая тройка, или Год <TIMEX3 functionInDocument="NONE"   type="DATE"      value="2001"  tid="t45">2001</TIMEX3>»
+<TIMEX3 functionInDocument="NONE"   type="DATE"      value="1974"  tid="t46">1974</TIMEX3> Дорогой мальчик — по одноимённой пьесе
+<TIMEX3 functionInDocument="NONE"   type="DATE"      value="1972"  tid="t47">1972</TIMEX3> Вид на жительство
+<TIMEX3 functionInDocument="NONE"   type="DATE"      value="1972"  tid="t48">1972</TIMEX3> Комитет девятнадцати —
+<TIMEX3 functionInDocument="NONE"   type="DATE"      value="1963"  tid="t49">1963</TIMEX3> Три плюс два — по пьесе «Дикари»
+<TIMEX3 functionInDocument="NONE"   type="DATE"      value="1960"  tid="t50">1960</TIMEX3> Леон Гаррос ищет друга —
+<TIMEX3 functionInDocument="NONE"   type="DATE"      value="1959"  tid="t51">1959</TIMEX3> Сомбреро — по одноимённой пьесе
+<TIMEX3 functionInDocument="NONE"   type="DATE"      value="1958"  tid="t52">1958</TIMEX3> Новые похождения кота в сапогах
+<TIMEX3 functionInDocument="NONE"   type="DATE"      value="1958"  tid="t53">1958</TIMEX3> Шофер поневоле
+<TIMEX3 functionInDocument="NONE"   type="DATE"      value="1949"  tid="t54">1949</TIMEX3> У них есть Родина — по пьесе «Я хочу домой»
+<TIMEX3 functionInDocument="NONE"   type="DATE"      value="1948"  tid="t55">1948</TIMEX3> Красный галстук — по одноимённой пьесе
+<TIMEX3 functionInDocument="NONE"   type="DATE"      value="1942"  tid="t56">1942</TIMEX3> Бой под Соколом
+<TIMEX3 functionInDocument="NONE"   type="DATE"      value="1941"  tid="t57">1941</TIMEX3> Фронтовые подруги  
+Сценарии к мультфильмам (всего более 40 фильмов) 
+«В Африке жарко» (<TIMEX3 functionInDocument="NONE"   type="DATE"      value="1936"  tid="t58">1936</TIMEX3>)
+«На Лесной эстраде» (<TIMEX3 functionInDocument="NONE"   type="DATE"      value="1954"  tid="t59">1954</TIMEX3>)
+«Тринадцатый рейс» (<TIMEX3 functionInDocument="NONE"   type="DATE"      value="1960"  tid="t60">1960</TIMEX3>)
+«Козлёнок» (<TIMEX3 functionInDocument="NONE"   type="DATE"      value="1961"  tid="t61">1961</TIMEX3>)
+«Миллионер» (<TIMEX3 functionInDocument="NONE"   type="DATE"      value="1963"  tid="t62">1963</TIMEX3>)
+«Дядя Степа — милиционер» (<TIMEX3 functionInDocument="NONE"   type="DATE"      value="1964"  tid="t63">1964</TIMEX3>)
+«Портрет» (<TIMEX3 functionInDocument="NONE"   type="DATE"      value="1965"  tid="t64">1965</TIMEX3>)
+«Хочу бодаться» (<TIMEX3 functionInDocument="NONE"   type="DATE"      value="1968"  tid="t65">1968</TIMEX3>)
+«Шел трамвай десятый номер» (<TIMEX3 functionInDocument="NONE"   type="DATE"      value="1974"  tid="t66">1974</TIMEX3>)
+«Сами виноваты» (<TIMEX3 functionInDocument="NONE"   type="DATE"      value="1974"  tid="t67">1974</TIMEX3>)
+«Басни Михалкова» (<TIMEX3 functionInDocument="NONE"   type="DATE"      value="1975"  tid="t68">1975</TIMEX3>)
+«Зайка-зазнайка» (<TIMEX3 functionInDocument="NONE"   type="DATE"      value="1976"  tid="t69">1976</TIMEX3>)
+«Праздник непослушания» (<TIMEX3 functionInDocument="NONE"   type="DATE"      value="1977"  tid="t70">1977</TIMEX3>)
+«Жадный богач» (<TIMEX3 functionInDocument="NONE"   type="DATE"      value="1980"  tid="t71">1980</TIMEX3>)
+«Как старик корову продавал» (<TIMEX3 functionInDocument="NONE"   type="DATE"      value="1980"  tid="t72">1980</TIMEX3>)   
+Сборники стихов
+А что у вас
+Дядя Стёпа
+Мы с приятелем
+Будь человеком
+Разговор с сыном
+Слова и буквы
+[править] Драматургия
+Том Кэнти (<TIMEX3 functionInDocument="NONE"   type="DATE"      value="1938"  tid="t73">1938</TIMEX3>) Комедия
+Раки (<TIMEX3 functionInDocument="NONE"   type="DATE"      value="1952"  tid="t74">1952</TIMEX3>) Сатирическая комедия
+Памятник себе… (<TIMEX3 functionInDocument="NONE"   type="DATE"      value="1957"  tid="t75">1957</TIMEX3>) Сатирическая комедия
+Пощечина (<TIMEX3 functionInDocument="NONE"   type="DATE"      value="1973"  tid="t76">1973</TIMEX3>) Пьеса
+В одном купе (<TIMEX3 functionInDocument="NONE"   type="DATE"      value="1954"  tid="t77">1954</TIMEX3>) Сатирическое представление
+Балалайкин и К° (<TIMEX3 functionInDocument="NONE"   type="DATE"      value="1972"  tid="t78">1972</TIMEX3>) Пьеса
+Пассаж в пассаже (<TIMEX3 functionInDocument="NONE"   type="DATE"      value="1977"  tid="t79">1977</TIMEX3>) Пьеса (по мотивам рассказа Ф. М. Достоевского «Крокодил. Необыкновенное событие, или Пассаж в Пассаже»)    
+Басни (всего написано около 200 басен) 
+Пропавшее кольцо.
+Сплетня.
+Портной на лаврах.
+Слон-живописец.
+«Москвич» и «Волга».
+Заяц во хмелю
+Лиса и бобёр
+Чужая беда  
+Стихотворения 
+Мой секрет
+А что у вас
+Как бы жили мы без книг…
+Калеки в библиотеке
+Тридцать шесть и пять
+Мяч
+Школьные товарищи
+Моя неделя
+Мы тоже можем ТАК
+</TEXT>
+<MAKEINSTANCE eiid="e1" eventID="e1"/><MAKEINSTANCE eiid="e2" eventID="e2"/><MAKEINSTANCE eiid="e3" eventID="e3"/><MAKEINSTANCE eiid="e4" eventID="e4"/><MAKEINSTANCE eiid="e5" eventID="e5"/><MAKEINSTANCE eiid="e6" eventID="e6"/><MAKEINSTANCE eiid="e7" eventID="e7"/><MAKEINSTANCE eiid="e8" eventID="e8"/><MAKEINSTANCE eiid="e9" eventID="e9"/><MAKEINSTANCE eiid="e10" eventID="e10"/><MAKEINSTANCE eiid="e11" eventID="e11"/><MAKEINSTANCE eiid="e12" eventID="e12"/><MAKEINSTANCE eiid="e13" eventID="e13"/><MAKEINSTANCE eiid="e14" eventID="e14"/><MAKEINSTANCE eiid="e15" eventID="e15"/><MAKEINSTANCE eiid="e16" eventID="e16"/><MAKEINSTANCE eiid="e17" eventID="e17"/><MAKEINSTANCE eiid="e18" eventID="e18"/><MAKEINSTANCE eiid="e19" eventID="e19"/><MAKEINSTANCE eiid="e20" eventID="e20"/><MAKEINSTANCE eiid="e21" eventID="e21"/><MAKEINSTANCE eiid="e22" eventID="e22"/><MAKEINSTANCE eiid="e23" eventID="e23"/><MAKEINSTANCE eiid="e24" eventID="e24"/><MAKEINSTANCE eiid="e25" eventID="e25"/><MAKEINSTANCE eiid="e26" eventID="e26"/><TLINK eventInstanceID="e1"  relatedToTime="t3" relType="IS_INCLUDED"/><TLINK eventInstanceID="e2" signalID="s1" relatedToTime="t4" relType="IS_INCLUDED"/><TLINK eventInstanceID="e3" signalID="s2" relatedToTime="t5" relType="IS_INCLUDED"/><TLINK eventInstanceID="e4" signalID="s3" relatedToTime="t6" relType="IS_INCLUDED"/><TLINK eventInstanceID="e5" signalID="s4" relatedToTime="t7" relType="IS_INCLUDED"/><TLINK eventInstanceID="e6" signalID="s6" relatedToTime="t9" relType="IS_INCLUDED"/><TLINK eventInstanceID="e7" signalID="s7" relatedToTime="t10" relType="IBEFORE"/><TLINK eventInstanceID="e8" signalID="s8" relatedToTime="t11" relType="IS_INCLUDED"/><TLINK eventInstanceID="e9" signalID="s9" relatedToTime="t12" relType="IS_INCLUDED"/><TLINK eventInstanceID="e10" signalID="s10" relatedToTime="t13" relType="IS_INCLUDED"/><TLINK eventInstanceID="e11" signalID="s11" relatedToTime="t14" relType="IAFTER"/><TLINK eventInstanceID="e12" signalID="s12" relatedToTime="t15" relType="IAFTER"/><TLINK eventInstanceID="e12"  relatedToTime="t16" relType="IBEFORE"/><TLINK eventInstanceID="e13" signalID="s12" relatedToTime="t15" relType="IAFTER"/><TLINK eventInstanceID="e13"  relatedToTime="t16" relType="IBEFORE"/><TLINK eventInstanceID="e14" signalID="s13" relatedToTime="t17" relType="IAFTER"/><TLINK eventInstanceID="e15" signalID="s14" relatedToTime="t18" relType="IS_INCLUDED"/><TLINK eventInstanceID="e16" signalID="s15" relatedToTime="t19" relType="IAFTER"/><TLINK eventInstanceID="e16"  relatedToTime="t20" relType="IBEFORE"/><TLINK eventInstanceID="e17" signalID="s16" relatedToTime="t21" relType="IS_INCLUDED"/><TLINK eventInstanceID="e18" signalID="s17" relatedToTime="t22" relType="IBEFORE"/><TLINK eventInstanceID="e19"  relatedToTime="t23" relType="IS_INCLUDED"/><TLINK eventInstanceID="e20" signalID="s18" relatedToTime="t25" relType="IS_INCLUDED"/><TLINK eventInstanceID="e21" signalID="s19" relatedToTime="t24" relType="IS_INCLUDED"/><TLINK eventInstanceID="e22"  relatedToTime="t26" relType="IS_INCLUDED"/><TLINK eventInstanceID="e23" signalID="s20" relatedToTime="t27" relType="IS_INCLUDED"/><TLINK eventInstanceID="e24"  relatedToTime="t28" relType="DURING"/><TLINK eventInstanceID="e25" signalID="s21" relatedToTime="t29" relType="IS_INCLUDED"/><TLINK eventInstanceID="e26" signalID="s22" relatedToTime="t30" relType="IS_INCLUDED"/></TimeML>

@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+
+<TimeML><DCT><TIMEX3 functionInDocument="CREATION_TIME" type="DATE" temporalFunction="false" value="2012-03-05" tid="t0">2012-03-05</TIMEX3></DCT> <TEXT>
+
+Медведев поручил Генпрокуратуре разобраться в приговорах Ходорковскому, Лебедеву и Аракчееву
+Дмитрий Медведев подписал перечень поручений по итогам встречи с руководителями внесистемной оппозиции, среди которых содержится поручение Генпрокуратуре проанализировать обоснованность приговоров Михаилу Ходорковскому и Платону Лебедеву, сообщается на официальном сайте президента России.
+Согласно тексту документа, Медведев поручил Генпрокуратуре в срок <SIGNAL sid="s1">до</SIGNAL> <TIMEX3 functionInDocument="NONE" type="DATE" value="2012-04-01" tid="t1">1 апреля 2012 года</TIMEX3> «в установленном порядке <EVENT aspect="PERFECTIVE" tense="NONE" class="OCCURRENCE" eid="e1">провести</EVENT> анализ законности и обоснованности обвинительных приговоров суда в отношении граждан Российской Федерации согласно приложению». В приложении перечислены 32 имени, и в этом списке фигурируют имена Михаила Ходорковского и Платона Лебедева.
+Кроме того, в списке, опубликованном на официальном сайте президента России, содержится имя Сергея Аракчеева, <EVENT aspect="PERFECTIVE" tense="NONE" class="OCCURRENCE" eid="e2">осужденного</EVENT> Северо-Кавказским военным судом <SIGNAL sid="s2">на</SIGNAL> <TIMEX3 functionInDocument="NONE" type="DURATION" value="P15Y" tid="t2">15 лет</TIMEX3> лишения свободы за убийство трех жителей Чечни.
+Ответственным за исполнение этого поручения назначен генпрокурор Юрий Чайка.
+<SIGNAL sid="s3">В</SIGNAL> <TIMEX3 functionInDocument="NONE" type="DATE" value="2012-03-02" tid="t3">минувшую пятницу</TIMEX3> Конституционный суд <EVENT aspect="PERFECTIVE" tense="PAST" class="OCCURRENCE" eid="e3">вынес</EVENT> определение по жалобе Платона Лебедева, в которой постановил, что отсутствие признания вины со стороны осужденного не препятствует его условно-досрочному освобождению.
+</TEXT>
+<MAKEINSTANCE eventID="e1" eiid="e1"></MAKEINSTANCE><MAKEINSTANCE eventID="e2" eiid="e2"></MAKEINSTANCE><MAKEINSTANCE eventID="e3" eiid="e3"></MAKEINSTANCE>
+<TLINK eventInstanceID="e1" signalID="s1" relatedToTime="t1" relType="IBEFORE"/><TLINK eventInstanceID="e2" signalID="s2" relatedToTime="t2" relType="IS_INCLUDED"/><TLINK eventInstanceID="e3" signalID="s3" relatedToTime="t2" relType="IS_INCLUDED"/></TimeML>
